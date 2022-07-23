@@ -28,3 +28,7 @@ Organization members can check this out:
 ```
 https://maven.pkg.github.com/shinonometn/maven-public
 ```
+
+## Attentions
+
+⚠️ For saving disk usage, we will clear snapshot versions in maven-public after every month.
