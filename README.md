@@ -1,6 +1,6 @@
 # Maven Public Repository
 
-Out Github Maven Repository Entry
+Our Github Maven Repository Entry
 
 ## Usage
 
