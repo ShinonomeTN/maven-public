@@ -1,6 +1,4 @@
-# Maven Public Repository
-
-Our Github Maven Repository Entry
+# ShinonomeTN Maven Public Repository
 
 ## Usage
 
@@ -9,7 +7,7 @@ Our Github Maven Repository Entry
 ```xml
 <repository>
     <id>github</id>
-    <url>https://maven.pkg.github.com/shinonometn/maven-public</url>
+    <url>https://nexus.shinonometn.com/repository/maven-public/</url>
     <!-- Optional, force enable snapshot version -->
     <snapshots>
         <enabled>true</enabled>
@@ -21,12 +19,12 @@ Our Github Maven Repository Entry
 
 ```groovy
 repositories {
-    maven { url = "https://maven.pkg.github.com/shinonometn/maven-public" }
+    maven { url = "https://nexus.shinonometn.com/repository/maven-public/" }
 }
 ```
 
-For all out library please also check this out:
+Organization members can check this out:
 
 ```
-https://nexus.shinonometn.com/repository/maven-public/
+https://maven.pkg.github.com/shinonometn/maven-public
 ```
