@@ -6,7 +6,7 @@
 
 ```xml
 <repository>
-    <id>github</id>
+    <id>shinonometn-maven-public</id>
     <url>https://nexus.shinonometn.com/repository/maven-public/</url>
     <!-- Optional, force enable snapshot version -->
     <snapshots>
